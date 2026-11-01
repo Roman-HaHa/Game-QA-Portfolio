@@ -1,8 +1,11 @@
 **Title:** [Category] Short description of the bug
 
 **Project:** 
+
 **Build version:** 
+
 **Platform:** 
+
 **Date:** 
 
 **Severity:** 
@@ -27,3 +30,5 @@
 **Media:**
 - Video: 
 - Screenshots: 
+
+**Additional info:**
