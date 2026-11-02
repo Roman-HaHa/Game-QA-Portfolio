@@ -1,0 +1,9 @@
+- [ ] NPC patrols the area when player is not detected.
+- [ ] NPC detects the player within line of sight.
+- [ ] NPC shoots when player is in the open.
+- [ ] Bullets deal damage to the player.
+- [ ] NPC continues shooting while the player is visible.
+- [ ] NPC stops shooting when the player breaks line of sight (e.g., closes the door).
+- [ ] NPC resets aggression and returns to patrol after losing sight of the player.
+- [ ] NPC shoots at the player standing in the doorway (boundary).
+- [ ] Damage is applied when shooting at point-blank range.
